@@ -1,0 +1,10 @@
+doctype html
+html(lang="en")
+    head
+        title= headTitle
+        // link(rel='stylesheet', href='/public/css/custom.css')
+    body(class='app')
+        h3 from PUG
+        div#root !{htmlData}
+        script window.__PRELOADED_STATE__ = !{initialState}
+        script(src='/public/js/bundle.js')
