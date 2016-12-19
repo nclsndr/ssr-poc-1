@@ -22,7 +22,6 @@
     "react": "^15.4.0",
     "react-addons-update": "^15.4.0",
     "react-date-picker": "^5.3.28",
-    "react-datepicker": "^0.34.0",
     "react-dom": "^15.4.0",
     "react-draggable": "^2.2.2",
     "react-dropzone": "^3.7.3",
